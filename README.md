@@ -3,7 +3,7 @@
 
 **Hi!** ✨ _I am Chamin_ ✨ Here's my GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on **Computer Vision and Video Understanding.**
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
