@@ -5,10 +5,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Computer Vision and Video Understanding.**
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
-- 🤔 I’m looking for help with [Mobimart](https://github.com/knztnt/mobiMart)
-- 📫 How to reach me: [My Portfolio](https://chaminjayasooriya.github.io/) and [LinkedIn](https://www.linkedin.com/in/chamin-jayasooriya/)
+- 🔭 I’m currently working on **Full Stack Web Development.**
+- 🌱 I’m currently learning [Gatsby](https://www.gatsbyjs.com/)
+- 🤔 I’m looking for help with [devSquare](https://devsquare.club/)
+- 📫 How to reach me: [My Portfolio](https://chaminjayasooriya.xyz/) and [LinkedIn](https://www.linkedin.com/in/chamin-jayasooriya/)
 <!-- - 👯 I’m looking to collaborate on 
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
